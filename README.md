@@ -28,6 +28,13 @@ Use this template to instantly create a clean, professional documentation site h
 
 > 💡 **Tip**: This template uses GitHub’s built-in Jekyll support — no local build required!
 
+## ✏️ Best Practices / Examples
+
+| Repo | Description | Link |
+|--------|-------------|------|
+| Government Hub | Showcase Open Government Innovations | [Repo](https://github.com/github/government.github.com) |
+
+
 ---
 
 MIT License © [ray-oh]
