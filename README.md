@@ -4,7 +4,7 @@ Use this template to instantly create a clean, professional documentation site h
 
 ## 🚀 How to Use This Template
 
-1. Click **[Use this template](https://github.com/your-username/docs-template/generate)**  
+1. Click **[Use this template](https://github.com/ray-oh/docs-template/generate)**  
 2. Name your new repo (e.g., `my-project-docs`)
 3. Go to **Settings → Pages**:
    - **Source**: `Deploy from a branch`
@@ -30,4 +30,4 @@ Use this template to instantly create a clean, professional documentation site h
 
 ---
 
-MIT License © [Your Name]
+MIT License © [ray-oh]
