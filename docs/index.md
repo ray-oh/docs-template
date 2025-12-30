@@ -26,3 +26,4 @@ Your site is now live at:
 - [Write your first guide](writing-docs.md)
 - [Customize the theme](styling.md)
 - [Add a custom domain](custom-domain.md)
+- [Linking to a private repo](linking-to-private-repo.md)
