@@ -5,7 +5,7 @@ nav_order: 1
 
 # 📚 GitHub Pages Documentation Template
 
-This site was generated from a [documentation template](https://github.com/your-username/docs-template) designed to help you quickly launch a professional documentation site using **GitHub Pages**.
+This site was generated from a [documentation template](https://github.com/ray-oh/docs-template) designed to help you quickly launch a professional documentation site using **GitHub Pages**.
 
 ## 🚀 Getting Started
 
